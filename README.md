@@ -1,6 +1,6 @@
 # Classification_Electrocardiogramme
 (C'est un des premiers pas pour la Science de données)
-Inspriré de la recherche **"[ECG Heartbeat Classification: A Deep TransferableRepresentationMohammad Kachuee, Shayan Fazeli, Majid SarrafzadehUniversity of California, Los Angeles]"** (https://arxiv.org/pdf/1805.00794.pdf), qui utilise les réseau de neurones pour prédire 5 classes d'ECG, détaillées dans le tableau suivant. Le jeu de données est constitué de 87554 electrocardiogrammes échantillonés à la fréquence de 125hz,c’est-à-dire une valeur toutes les 0,008 secondes. On a donc pour chacun des signaux 187 valeurs sur 1,488s.
+Inspriré de la [recherche] (https://arxiv.org/pdf/1805.00794.pdf) **"ECG Heartbeat Classification: A Deep TransferableRepresentationMohammad Kachuee, Shayan Fazeli, Majid SarrafzadehUniversity of California, Los Angeles"**, qui utilise les réseau de neurones pour prédire 5 classes d'ECG, détaillées dans le tableau suivant. Le jeu de données est constitué de 87554 electrocardiogrammes échantillonés à la fréquence de 125hz,c’est-à-dire une valeur toutes les 0,008 secondes. On a donc pour chacun des signaux 187 valeurs sur 1,488s.
 
 
 | Category(data)        |  Category(Paper)     | Annotations  |
